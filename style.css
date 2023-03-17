@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  color: white;
+  background-color: #27086f;
+  font-family: "Fira Code", sans-serif;
+}
+
+h1 {
+  padding-top: 20px;
+}
+
+a {
+  color: hsl(258, 77%, 88%);
+}
+
+section {
+  display: inline-block;
+}
+
+p {
+  text-align: left;
+}
