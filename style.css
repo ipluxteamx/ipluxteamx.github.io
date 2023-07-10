@@ -2,13 +2,13 @@
 
 /* background */
 body {
-    background: #757575;
+    background: #444;
 	font-family: "Helvetica Neue", "Segoe UI", "Segoe UI Light", "Segoe UI Web Light", "Segoe UI Web Regular", "Segoe UI Symbol", "Helvetica", "Lucida Grande", "Arial", "Lucida Sans Unicode", "Tahoma", "Verdana", "sans-serif";
 
 	/* margin for the header */
     margin: 1em;
 
-	color: #222;
+	color: #FFF;
 }
 
 header > h1 {
@@ -58,7 +58,7 @@ header:hover {
 }
 
 a {
-	color: #444;
+	color: #DDD;
 	text-decoration: none;
 }
 
