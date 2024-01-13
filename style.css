@@ -3,8 +3,7 @@
 /* background */
 body {
     background: #000;
-    font-family: 'SF Pro Display';
-    src: url('fonts/SF-Pro-Display-Regular.woff2') format('woff2');
+    font-family: 'SF Pro Display', sans-serif;
 	color: #FFF;
 }
 
